@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.759bdb0a.chunk.css",
+    "main.js": "/static/js/main.e92e7a68.chunk.js",
+    "main.js.map": "/static/js/main.e92e7a68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.96419a99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.96419a99.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.23176800.chunk.js": "/static/js/2.23176800.chunk.js",
+    "static/js/2.23176800.chunk.js.map": "/static/js/2.23176800.chunk.js.map",
+    "static/js/3.1060b998.chunk.js": "/static/js/3.1060b998.chunk.js",
+    "static/js/3.1060b998.chunk.js.map": "/static/js/3.1060b998.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/static/css/2.2e99a83d.chunk.css.map",
+    "static/css/main.759bdb0a.chunk.css.map": "/static/css/main.759bdb0a.chunk.css.map",
+    "static/js/2.23176800.chunk.js.LICENSE.txt": "/static/js/2.23176800.chunk.js.LICENSE.txt",
+    "static/media/avax-logo.234db155.svg": "/static/media/avax-logo.234db155.svg",
+    "static/media/card1.ad3c068b.jpeg": "/static/media/card1.ad3c068b.jpeg",
+    "static/media/card2.ea840e2d.jpeg": "/static/media/card2.ea840e2d.jpeg",
+    "static/media/card3.86a3c0af.jpeg": "/static/media/card3.86a3c0af.jpeg",
+    "static/media/paracosms_gif_compressed2.gif": "/static/media/paracosms_gif_compressed2.9ac78507.gif",
+    "static/media/paracosms_hero_gif_smaller.c6630361.gif": "/static/media/paracosms_hero_gif_smaller.c6630361.gif",
+    "static/media/white-checkmark.cc8d8418.svg": "/static/media/white-checkmark.cc8d8418.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96419a99.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.23176800.chunk.js",
+    "static/css/main.759bdb0a.chunk.css",
+    "static/js/main.e92e7a68.chunk.js"
+  ]
+}
